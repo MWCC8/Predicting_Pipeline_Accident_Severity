@@ -1,4 +1,4 @@
-# Final Proejet - Oil Spills from Pipeline Accidents in the United States since 2010 - Michael Church Carson
+# Oil Spills from Pipeline Accidents in the United States since 2010 - Michael Church Carson
 
 spills = read.csv('spills.csv')
 attach(spills)
